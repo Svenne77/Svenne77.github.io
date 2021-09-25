@@ -20,12 +20,12 @@ Thank you again.
 
 
 // Meta Data
-$title = "Qrows Alt Shop";
+$title = "Welcome to Svennes shop";
 $desc = "Lorem ipsum...";
 $favicon = "";
 
 // Nav Section
-$Brand = "Qrow";
+$Brand = "Svenne";
 $Navbar = [
     [
         "Name" => "Home",
@@ -38,12 +38,12 @@ $Navbar = [
 ];
 
 // Header Info
-// Heading One - "Welcome to Qrows Alt Shop"
-$heading1 = "Welcome to Qrows Alt Shop";
+// Heading One - "Welcome to Svennes Alt Shop"
+$heading1 = "Welcome to Svennes Alt Shop";
 // Heading description - "Lorem ipsum..."
 $headingdesc = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed arcu, venenatis mattis proin libero accumsan. Nulla nunc mattis nulla faucibus nisl, tellus, senectus mattis odio. Nulla viverra semper magnis.";
 // Logo - The image on the right
-$logo = "assets/img/Epic.png";
+$logo = "assets/img/Logo.png";
 
 
 // Section One
@@ -58,19 +58,19 @@ $Features = [
     ],
     [
         "Icon" => "assets/img/dollar-symbol 1.svg",
-        "Title" => "Affordable Prices"
+        "Title" => "Instant Delivery"
     ],
     [
         "Icon" => "assets/img/dollar-symbol 1.svg",
-        "Title" => "Affordable Prices"
+        "Title" => "Best Service"
     ],
     [
         "Icon" => "assets/img/dollar-symbol 1.svg",
-        "Title" => "Affordable Prices"
+        "Title" => "Fast Support"
     ],
     [
         "Icon" => "assets/img/dollar-symbol 1.svg",
-        "Title" => "Affordable Prices"
+        "Title" => "Money Back if your product isn't working"
     ],
     [
         "Icon" => "assets/img/dollar-symbol 1.svg",
@@ -95,37 +95,37 @@ $Categories = [
 $Products = [
     [
         "Category" => "One",
-        "ProductName" => "Example",
-        "ProductImage" => "assets/img/Epic.png",
+        "ProductName" => "Product 1",
+        "ProductImage" => "assets/img/Logo.png",
         "Embed" => "604514a19c3bc",
-        "ProductDesc" => "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "ProductDesc" => "This is our product number 1.",
     ],
     [
         "Category" => "Two",
-        "ProductName" => "Examffffple",
-        "ProductImage" => "assets/img/Epic.png",
+        "ProductName" => "Product 2",
+        "ProductImage" => "assets/img/Logo.png",
         "Embed" => "604514a19c3bc",
-        "ProductDesc" => "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "ProductDesc" => "This is our product number 2.",
     ],
     [
-        "Category" => "Two",
-        "ProductName" => "Examffffple",
+        "Category" => "Three",
+        "ProductName" => "Product 3",
         "ProductImage" => "assets/img/Epic.png",
         "Embed" => "604514a19c3bc",
-        "ProductDesc" => "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "ProductDesc" => "This is our product number 3.",
     ],
     [
-        "Category" => "Two",
-        "ProductName" => "Examffffple",
+        "Category" => "Four",
+        "ProductName" => "Product 4",
         "ProductImage" => "assets/img/Epic.png",
         "Embed" => "604514a19c3bc",
-        "ProductDesc" => "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "ProductDesc" => "This is our product number 4.",
     ],
     [
-        "Category" => "Two",
-        "ProductName" => "Examffffple",
+        "Category" => "Five",
+        "ProductName" => "Product 5",
         "ProductImage" => "assets/img/Epic.png",
         "Embed" => "604514a19c3bc",
-        "ProductDesc" => "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "ProductDesc" => "This is our product number 5.",
     ],
 ];
